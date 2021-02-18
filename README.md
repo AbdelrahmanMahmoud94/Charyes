@@ -1,4 +1,4 @@
-# Charyes-
+# Charyes
 ## Restaurant Managment 
 ![](images/ch_1.PNG)
 ![](images/ch_2.PNG)
